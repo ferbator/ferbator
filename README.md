@@ -51,7 +51,7 @@ Here are the main tools and technologies I work with:
 - Data analysis and preprocessing for ML pipelines
 ## 📊 &nbsp;Stats
 
-![Languages Rate]([https://github-readme-stats.vercel.app/api/top-langs/?layout=donut-vertical&username=ferbator&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut-vertical&username=ferbator&theme=transparent&count_private=true&include_all_commits=true))
+![Languages Rate]([https://github-readme-stats.vercel.app/api/top-langs/?layout=donut-vertical&username=ferbator&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut-vertical&username=ferbator&theme=transparent&count_private=true&include_all_commits=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ferbator&hide=issues,prs&show_icons=true&theme=transparent)
 
